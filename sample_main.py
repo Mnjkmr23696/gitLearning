@@ -5,4 +5,6 @@ if hungry=="yes":
 	print("eat pizza")
 	print("adding change in master")
 else:
+	print("you should do your homework")
+	print("thirsty branch")
 	print("do your homework")
