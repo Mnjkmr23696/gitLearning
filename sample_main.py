@@ -9,6 +9,8 @@ if hungry=="yes":
 else:
 	print("you should do your homework")
 	print("thirsty branch")
+	print("radha radha radha ")
+	print("radha radha radha ")
 	print("do your homework")
 	print("krishn")
 	print("radha")
