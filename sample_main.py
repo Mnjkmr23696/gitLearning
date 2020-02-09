@@ -6,9 +6,7 @@ if hungry=="yes":
 	print("adding change in master")
 	print("ram")
 else:
-	print("you should do your homework")
-	print("thirsty branch")
-	print("do your homework")
+    print("bhaj hare krishn")
 	print("ram")
 	print("krishn")
 	print("radha")
