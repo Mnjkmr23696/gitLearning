@@ -12,6 +12,7 @@ if hungry=="yes":
 	print("radha")
 	print("radha radha radha ")
 	print("eat pizza")
+	print("hare krishn")
 	print ("radha krishn radha krishn")
 	print("radha krishn")
 	print ("radha krishn radha krishn")
