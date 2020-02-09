@@ -29,5 +29,9 @@ else:
 	print("radha radha radha ")
 	print("radha radha radha ")
 	print("do your homework")
+	print("ram")
+else:
+    print("bhaj hare krishn")
+	print("ram")
 	print("krishn")
 	print("radha")
