@@ -9,5 +9,6 @@ else:
 	print("you should do your homework")
 	print("thirsty branch")
 	print("do your homework")
+	print("ram")
 	print("krishn")
 	print("radha")
