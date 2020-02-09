@@ -4,6 +4,7 @@ if hungry=="yes":
 	print("eat burger")
 	print("eat pizza")
 	print("adding change in master")
+	print("git sita")
 else:
 	print("you should do your homework")
 	print("thirsty branch")
