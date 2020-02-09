@@ -2,6 +2,7 @@ hungry=input("are you hungry")
 if hungry=="yes":
 	print("eat samosa")
 	print("eat burger")
+	print("radha radha radha ")
 	print("eat pizza")
 	print("radha krishn")
 	print("adding change in master")
