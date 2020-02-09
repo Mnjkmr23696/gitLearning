@@ -3,7 +3,9 @@ if hungry=="yes":
 	print("eat samosa")
 	print("eat burger")
 	print("eat pizza")
+	print ("radha krishn radha krishn")
 	print("radha krishn")
+	print ("radha krishn radha krishn")
 	print("adding change in master")
 	print("git sita")
 else:
